@@ -1,0 +1,67 @@
+[
+    {
+      "icon": "american-football-outline",
+      "name": "Action Sheet",
+      "redirecTo": "/action-sheet"
+    },
+    {
+      "icon": "logo-apple-appstore",
+      "name": "Alert",
+      "redirecTo": "/alert"
+    },
+    {
+      "icon": "person-circle-outline",
+      "name": "Avatar",
+      "redirecTo": "/avatar"
+    },
+    {
+      "icon": "radio-button-on-outline",
+      "name": "Botones",
+      "redirecTo": "/botones"
+    },
+    {
+      "icon": "card-outline",
+      "name": "Cards",
+      "redirecTo": "/cards"
+    },
+    {
+      "icon": "checkbox-outline",
+      "name": "Checkbox",
+      "redirecTo": "/check"
+    },
+    {
+      "icon": "calendar-outline",
+      "name": "DateTime",
+      "redirecTo": "/date-time"
+    },
+    {
+      "icon": "add-circle-outline",
+      "name": "Fab",
+      "redirecTo": "/fab"
+    },
+    {
+      "icon": "grid-outline",
+      "name": "Grid",
+      "redirecTo": "/grid"
+    },
+    {
+      "icon": "arrow-down-outline",
+      "name": "Infinite Scroll",
+      "redirecTo": "/infinite-scroll"
+    },
+    {
+      "icon": "hammer-outline",
+      "name": "Inputs",
+      "redirecTo": "/input"
+    },
+    {
+      "icon": "list-outline",
+      "name": "List",
+      "redirecTo": "/list"
+    },
+    {
+      "icon": "reorder-two-outline",
+      "name": "List Reorder",
+      "redirecTo": "/list-reorder"
+    }
+  ]
